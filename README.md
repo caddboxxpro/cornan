@@ -1,3 +1,2 @@
-# cornan
-cornan group
-This repo contains files, apllications and other relevant documents belonging to the cornan group
+
+CADBOXX AND OTHER APPLICATIONS ARE DEPLOYED FROM THIS REPO
